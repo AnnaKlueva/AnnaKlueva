@@ -7,7 +7,7 @@
 To get started with KBot, clone the repository:
 
 ```bash
-git clone https://github.com/PTarasyuk/kbot.git
+git clone https://github.com/AnnaKlueva/kbot.git
 cd kbot
 ```
 
