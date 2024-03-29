@@ -1,4 +1,4 @@
-module cmd
+module github.com/AnnaKlueva/kbot
 
 go 1.22.1
 
